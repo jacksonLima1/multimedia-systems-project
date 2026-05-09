@@ -12,12 +12,12 @@
 ---
 
 ## Delivery Platform
-( mobile, web)
+( mobile,web)
 
 ---
 
 ## Operating System
-(Windows, Android)
+(Windows,Android)
 
 ---
 
