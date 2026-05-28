@@ -16,25 +16,25 @@ A comunicação ocorre através de APIs e serviços de geolocalização.
 ---
 
 ## Components
--Interface mobile
--Sistema de mapas interativos
--Serviço de geolocalização GPS
--Banco de dados Supabase
--Sistema de upload de imagens
--Sistema de avaliações
--Armazenamento em nuvem
+- Interface mobile
+- Sistema de mapas interativos
+- Serviço de geolocalização GPS
+- Banco de dados Supabase
+- Sistema de upload de imagens
+- Sistema de avaliações
+- Armazenamento em nuvem
 ---
 
 ## Technologies Used
--React Native
--Expo
--React Native Maps
--Expo Location
--Expo Image Picker
--Supabase
--PostgreSQL
--JavaScript / TypeScript
--GitHub
+- React Native
+- Expo
+- React Native Maps
+- Expo Location
+- Expo Image Picker
+- Supabase
+- PostgreSQL
+- JavaScript / TypeScript
+- GitHub
 
 ---
 
