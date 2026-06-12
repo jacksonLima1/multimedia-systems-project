@@ -12,6 +12,7 @@
 
 ## Prototype Description
 O protótipo do smartFrete consiste em uma aplicação web para gerenciamento de entregas.
+
 O sistema permite cadastrar entregas, motoristas e rotas, além de acompanhar o status das entregas em tempo real.
 A interface foi planejada para ser simples, organizada e de fácil utilização.
 
@@ -44,7 +45,9 @@ Fluxo básico:
 O smartFrete funciona através de um sistema web conectado a um banco de dados.
 
 Os usuários podem registrar entregas, acompanhar informações e atualizar o status em tempo real.
+
 Os administradores conseguem monitorar as rotas e organizar o processo logístico de maneira mais eficiente.
+
 O sistema busca reduzir atrasos, melhorar a comunicação e aumentar o controle das operações de entrega.
 
 ---
